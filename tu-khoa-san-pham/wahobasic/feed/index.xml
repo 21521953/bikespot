@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lưu trữ wahobasic - ecm</title>
+	<atom:link href="http://localhost/ecm/wordpress/tu-khoa-san-pham/wahobasic/feed/?simply_static_page=20231" rel="self" type="application/rss+xml" />
+	<link>https://21521953.github.io/bikespot/tu-khoa-san-pham/wahobasic/</link>
+	<description></description>
+	<lastBuildDate>Tue, 23 May 2023 10:36:32 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>WAHOO BASIC</title>
+		<link>https://21521953.github.io/bikespot/san-pham/wahoo-basic/</link>
+					<comments>https://21521953.github.io/bikespot/san-pham/wahoo-basic/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 23 May 2023 10:36:30 +0000</pubDate>
+				<guid isPermaLink="false">https://21521953.github.io/bikespot/?post_type=product#038;p=91</guid>
+
+					<description><![CDATA[<p>Wahoo Basic is the top-end model in the X-Caliber family. It's a fully race-ready cross-country mountain bike built with parts designed to compete. A RockShox Judy Silver fork with remote lockout, a 1x12 Shimano XT/SLX drive train, and a wide-range cassette make it a great choice for fast singletrack riders who want a great bike that's ready to race straight out of the box.</p>
+<p>Bài viết <a rel="nofollow" href="https://21521953.github.io/bikespot/san-pham/wahoo-basic/">WAHOO BASIC</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://21521953.github.io/bikespot">ecm</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<a href='https://21521953.github.io/bikespot/?attachment_id=68'><img width="150" height="113" src="https://21521953.github.io/bikespot/wp-content/uploads/2023/05/44.webp" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /></a>
+<a href='https://21521953.github.io/bikespot/?attachment_id=67'><img width="150" height="113" src="https://21521953.github.io/bikespot/wp-content/uploads/2023/05/43.webp" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /></a>
+<a href='https://21521953.github.io/bikespot/?attachment_id=66'><img width="150" height="113" src="https://21521953.github.io/bikespot/wp-content/uploads/2023/05/42.webp" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /></a>
+<a href='https://21521953.github.io/bikespot/?attachment_id=41'><img width="150" height="113" src="https://21521953.github.io/bikespot/wp-content/uploads/2023/05/Supercaliber-9-9-axs-2020-1024x768-2.webp" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" /></a>
+
+<p>Bài viết <a rel="nofollow" href="https://21521953.github.io/bikespot/san-pham/wahoo-basic/">WAHOO BASIC</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://21521953.github.io/bikespot">ecm</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://21521953.github.io/bikespot/san-pham/wahoo-basic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

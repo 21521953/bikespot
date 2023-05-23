@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lưu trữ hd2 - ecm</title>
+	<atom:link href="http://localhost/ecm/wordpress/tu-khoa-san-pham/hd2/feed/?simply_static_page=20215" rel="self" type="application/rss+xml" />
+	<link>https://21521953.github.io/bikespot/tu-khoa-san-pham/hd2/</link>
+	<description></description>
+	<lastBuildDate>Tue, 23 May 2023 13:32:39 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>IsoCore</title>
+		<link>https://21521953.github.io/bikespot/san-pham/isocore/</link>
+					<comments>https://21521953.github.io/bikespot/san-pham/isocore/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 23 May 2023 13:32:38 +0000</pubDate>
+				<guid isPermaLink="false">https://21521953.github.io/bikespot/?post_type=product#038;p=170</guid>
+
+					<description><![CDATA[<p>A carbon road handlebar with IsoCore that reduces road vibration by 20% and features a variable compact radius that offers additional ergonomic positions</p>
+<p>Bài viết <a rel="nofollow" href="https://21521953.github.io/bikespot/san-pham/isocore/">IsoCore</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://21521953.github.io/bikespot">ecm</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="aligncenter size-full wp-image-171" src="https://21521953.github.io/bikespot/wp-content/uploads/2023/05/hd2-1.webp" alt="" width="1920" height="1440" /> <img decoding="async" class="aligncenter size-medium wp-image-172" src="https://21521953.github.io/bikespot/wp-content/uploads/2023/05/hd21.webp" alt="" width="300" height="225" /></p>
+<p>Bài viết <a rel="nofollow" href="https://21521953.github.io/bikespot/san-pham/isocore/">IsoCore</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://21521953.github.io/bikespot">ecm</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://21521953.github.io/bikespot/san-pham/isocore/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

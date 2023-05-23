@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lưu trữ hb1 - ecm</title>
+	<atom:link href="http://localhost/ecm/wordpress/tu-khoa-san-pham/hb1/feed/?simply_static_page=20211" rel="self" type="application/rss+xml" />
+	<link>https://21521953.github.io/bikespot/tu-khoa-san-pham/hb1/</link>
+	<description></description>
+	<lastBuildDate>Tue, 23 May 2023 13:29:53 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>VR-C</title>
+		<link>https://21521953.github.io/bikespot/san-pham/vr-c/</link>
+					<comments>https://21521953.github.io/bikespot/san-pham/vr-c/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 23 May 2023 13:29:51 +0000</pubDate>
+				<guid isPermaLink="false">https://21521953.github.io/bikespot/?post_type=product#038;p=164</guid>
+
+					<description><![CDATA[<p>An OCLV carbon road handlebar with a Variable Radius Compact (VR-C) design that allows longer reach and drop.</p>
+<p>Bài viết <a rel="nofollow" href="https://21521953.github.io/bikespot/san-pham/vr-c/">VR-C</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://21521953.github.io/bikespot">ecm</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="aligncenter size-full wp-image-165" src="https://21521953.github.io/bikespot/wp-content/uploads/2023/05/hd1-1.webp" alt="" width="1920" height="1440" /> <img decoding="async" class="aligncenter size-medium wp-image-166" src="https://21521953.github.io/bikespot/wp-content/uploads/2023/05/hd12.webp" alt="" width="300" height="225" /> <img decoding="async" class="aligncenter size-medium wp-image-167" src="https://21521953.github.io/bikespot/wp-content/uploads/2023/05/hd13.webp" alt="" width="300" height="225" /></p>
+<p>Bài viết <a rel="nofollow" href="https://21521953.github.io/bikespot/san-pham/vr-c/">VR-C</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://21521953.github.io/bikespot">ecm</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://21521953.github.io/bikespot/san-pham/vr-c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
